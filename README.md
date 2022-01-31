@@ -2,7 +2,7 @@
 
 📌 Atividade em dupla, solicitada na aula de Desenvolvimento de Softwares.
 
-✔️ Intuito de trabalharmos 
+✔️ Intuito de trabalharmos: 
 - JAVA;
 - Interface gráfica;
 - POO;
